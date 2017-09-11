@@ -1,0 +1,7 @@
+1-activity main 
+  1.1->drawer;ayout
+       1.1.1 ->create body content layout
+        1.1.2->NavigationView
+              1.1.2.1-> create menu with item regrelly
+              1.1.2.2->headerRowLayout
+        
